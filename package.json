@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Leandro-Angeli/sass-con-npm/issues"
   },
-  "homepage": "https://github.com/Leandro-Angeli/sass-con-npm#readme"
+  "homepage": "https://github.com/Leandro-Angeli/sass-con-npm#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
 }
