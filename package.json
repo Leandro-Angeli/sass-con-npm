@@ -1,0 +1,19 @@
+{
+  "name": "clase30-15-6-21-sass-con-npm",
+  "version": "1.0.0",
+  "description": "probando sass con npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leandro-Angeli/sass-con-npm.git"
+  },
+  "author": "Leandro Angeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leandro-Angeli/sass-con-npm/issues"
+  },
+  "homepage": "https://github.com/Leandro-Angeli/sass-con-npm#readme"
+}
