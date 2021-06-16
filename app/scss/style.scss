@@ -1,3 +1,11 @@
-body{background-color: aqua;
+
+$naranja : orange;
+$rojo : red;
+$gold: goldenrod;
+
+body{background-color:$naranja;
+    color: $gold;
+    font-size: large;
+    
 
  }
