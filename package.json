@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"node-sass -w app/scss/style.scss -o app/css/style.css --source-map=true",
-    "prod" : "node-sass  app/scss/style.scss -o  app/css/style.css --output-style=compressed "
+    "dev":"node-sass -w app/scss/style.scss   app/css/style.css  --source-map=true",
+    "prod" : "node-sass  app/scss/style.scss   app/css/style.css --output-style=compressed "
   },
   "repository": {
     "type": "git",
